@@ -10,4 +10,4 @@ Wolfram Language 11.3 onwards
 
 The notebook `first_passage_leapovers.nb` contains a timestamped record of the raw computations used to produce the figures. Each raw result has been iconised in the notebook with shortened names, e.g. *empirical FPLD*. These computations were run in parallel on a cluster of ~200 cores.
 
-The packages in `wlPackages/` contain helper functions used to streamline the presentation in the notebook when computing its results. In particular, `InverseLaplace.wl` contains an optimised rewriting of [an implementation](https://github.com/ghorvath78/iltcme/blob/master/mathematica_ilt.nb) of the [CME algorithm](http://inverselaplace.org/) for computing the inverse Laplace transform.
+The packages in `wlPackages/` contain helper functions written to streamline the presentation in the notebook when computing its results. In particular, `InverseLaplace.wl` contains an optimised rewriting of [an implementation](https://github.com/ghorvath78/iltcme/blob/master/mathematica_ilt.nb) of the [CME algorithm](http://inverselaplace.org/) for computing the inverse Laplace transform.
