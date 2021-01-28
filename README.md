@@ -2,6 +2,9 @@
 
 This repository houses the code used to produce the figures in the article [_First passage leapovers of Lévy flights and the proper formulation of absorbing boundary conditions_](https://doi.org/10.1088/1751-8121/ab8b37). 
 
+## Citation
+Asem Wardak 2020 *J. Phys. A: Math. Theor.* **53** 375001
+
 ## Requirements
 
 Wolfram Language 11.3 onwards
